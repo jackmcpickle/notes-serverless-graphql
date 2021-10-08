@@ -1,6 +1,4 @@
-# Serverless GraphlQL API Example
-
-[Example Deployment](https://serverless-graphql-api-example-five-gamma.now.sh/api/graphql)
+# Notes Serverless GraphlQL API
 
 A serverless GraphQL API built with TypeScript and MongoDB
 
